@@ -1,2 +1,2 @@
 # dice-game
-# #This is basically a dice fun game in javascript  
+## This is basically a dice fun game in javascript  
